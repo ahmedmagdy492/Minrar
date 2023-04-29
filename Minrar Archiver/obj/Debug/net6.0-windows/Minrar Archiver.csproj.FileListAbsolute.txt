@@ -1,0 +1,18 @@
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\bin\Debug\net6.0-windows\Minrar Archiver.exe
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\bin\Debug\net6.0-windows\Minrar Archiver.deps.json
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\bin\Debug\net6.0-windows\Minrar Archiver.runtimeconfig.json
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\bin\Debug\net6.0-windows\Minrar Archiver.dll
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\bin\Debug\net6.0-windows\Minrar Archiver.pdb
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.csproj.AssemblyReference.cache
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar_Archiver.Form1.resources
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar_Archiver.Properties.Resources.resources
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.csproj.GenerateResource.cache
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.AssemblyInfoInputs.cache
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.AssemblyInfo.cs
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.csproj.CoreCompileInputs.cache
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.dll
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\refint\Minrar Archiver.dll
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.pdb
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\Minrar Archiver.genruntimeconfig.cache
+D:\Hacking Tools\Projects\Minrar Archiver\Minrar Archiver\obj\Debug\net6.0-windows\ref\Minrar Archiver.dll
